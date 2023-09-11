@@ -72,8 +72,7 @@ To get started with this project, follow these steps:
 
 **Yusuf Samaila**
 
-[on LinkedIn](https://www.linkedin.com/in/yusufsd)
-[on Twitter](https://twitter.com/ysamaila_)
+-[on LinkedIn](https://www.linkedin.com/in/yusufsd) -[on Twitter](https://twitter.com/ysamaila_)
 
 ## License
 
